@@ -1,1 +1,1 @@
-# network
+# DBRN for image dehazing
