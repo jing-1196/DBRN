@@ -1,1 +1,1 @@
-# DBRN for image dehazing
+# A Dual-branch Residual Network for Inhomogeneous Dehazing
